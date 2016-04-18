@@ -1,2 +1,2 @@
 # hello-world
-A ewbie testing out github
+A newbie testing out github
